@@ -9,7 +9,7 @@ This project efficiently identifies and extracts key data types, including:
 ✅ **Phone Numbers**  
 ✅ **Credit Card Numbers**  
 ✅ **Time Formats (12-hour & 24-hour)**  
-✅ **Currency _amounts**  
+✅ **Currency Amounts**  
 
 This tool is ideal for **data processing, validation, etc.**
 

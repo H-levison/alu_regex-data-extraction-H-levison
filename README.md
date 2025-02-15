@@ -41,3 +41,7 @@ python data_extraction.py
 ```
 
 3️⃣ View extracted results in the terminal.
+
+## **Meet the Team**
+Name	GitHub Profile
+HonourGod Levison	H-levison

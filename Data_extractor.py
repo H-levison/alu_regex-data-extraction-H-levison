@@ -49,6 +49,7 @@ This is a test text written at 13:54 and I have a phone number of +25079357358 o
 My credit card number is 9452-5452-5532-5452 with $100,000.00 balance.
 You are free to use it on any site like https://www.amazon.com and https://www aliexpress.com.
 Don't worry about thanking me, what are friends for?.
+
 """
 
 # Create an instance and runs the extraction

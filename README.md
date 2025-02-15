@@ -26,7 +26,7 @@ cd alu_regex-data-extraction-H-levison
 ---
 
 ## **Usage Guide**
-1️⃣ Modify the test_text variable in data_extraction.py to test custom text.
+1️⃣ Modify the test_text variable in Data_extractor.py to test custom text.
 2️⃣ Run the script using:
 
 ```sh

@@ -15,14 +15,6 @@ This tool is ideal for **data processing, validation, etc.**
 
 ---
 
-## **Features**
-- **Object-Oriented Approach (OOP):** Clean and modular design using Python classes.
-- **Efficient Regex-Based Extraction:** Fast and accurate data filtering.
-- **Scalability:** Easily extendable for more data types like IP addresses, usernames, or social media tags.
-- **User-Friendly Output:** Displays results in an easy-to-read format.
-
----
-
 ## **Setup & Installation**
 
 ### **Clone the Repository and Switch Directory**

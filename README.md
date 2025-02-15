@@ -23,11 +23,22 @@ This tool is ideal for **data processing, validation, etc.**
 
 ---
 
+## **Setup & Installation**
+
+### **Clone the Repository and Switch Directory**
+```sh
+git clone https://github.com/H-levison/alu_regex-data-extraction-H-levison.git
+cd alu_regex-data-extraction-H-levison
 
 ---
 
-## **Setup & Installation**
-### **Clone the Repository**
+## **Usage Guide**
+1️⃣ Modify the sample_text variable in data_extraction.py to test custom text.
+2️⃣ Run the script using:
+
 ```sh
-git clone https://github.com/YourUsername/alu_regex-data-extraction-YourUsername.git
-cd alu_regex-data-extraction-YourUsername
+python data_extraction.py
+
+3️⃣ View extracted results in the terminal.
+
+

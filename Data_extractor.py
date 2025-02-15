@@ -44,8 +44,8 @@ class DataExtractor:
 
 # Test text with different data types and some edge cases
 test_text = """
-Hello Hii!, my name is HonourGod Levison with email address: h.levi@alustudent.com or hlevi@@gmail.com.
-This is a test text written at 12:30 PM and I have a phone number of +25079357358.
+Hello Hii!, my name is HonourGod Levison with email address: h-levi@alustudent.com or hlevi@@gmail.com.
+This is a test text written at 13:54 and I have a phone number of +25079357358 or 08168493523.
 My credit card number is 9452-5452-5532-5452 with $100,000.00 balance.
 You are free to use it on any site like https://www.amazon.com and https://www aliexpress.com.
 Don't worry about thanking me, what are friends for?.

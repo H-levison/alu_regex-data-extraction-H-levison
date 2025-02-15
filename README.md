@@ -20,6 +20,7 @@ This tool is ideal for **data processing, validation, etc.**
 ### **Clone the Repository and Switch Directory**
 ```sh
 git clone https://github.com/H-levison/alu_regex-data-extraction-H-levison.git
+
 cd alu_regex-data-extraction-H-levison
 ```
 ---
@@ -29,7 +30,7 @@ cd alu_regex-data-extraction-H-levison
 2️⃣ Run the script using:
 
 ```sh
-python data_extraction.py
+python Data_extractor.py
 ```
 
 3️⃣ View extracted results in the terminal.

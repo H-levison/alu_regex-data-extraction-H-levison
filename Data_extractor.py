@@ -2,7 +2,8 @@
 
 import re
 
-print = "Welcome to Data extrator application"
+print("Welcome to Data extractor application")
+
 # Defining the DataExtractor class to extract different data types
 class DataExtractor:
     def __init__(self, text):
